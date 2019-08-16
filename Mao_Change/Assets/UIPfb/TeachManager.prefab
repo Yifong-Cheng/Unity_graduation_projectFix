@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1590415876100588}
+  m_IsPrefabAsset: 1
+--- !u!1 &1590415876100588
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4073143159500896}
+  - component: {fileID: 114597042173014768}
+  - component: {fileID: 320776359426794338}
+  - component: {fileID: 95676541764748966}
+  m_Layer: 0
+  m_Name: TeachManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4073143159500896
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1590415876100588}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -439.6399, y: -12.083511, z: 51.05974}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &95676541764748966
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1590415876100588}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &114597042173014768
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1590415876100588}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 137a24e3af624b54b88442285c335bdb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  teachcanvas: {fileID: 0}
+  playableDirector: {fileID: 0}
+  TeachText: {fileID: 0}
+  TeachLevel: 0
+  image: {fileID: 0}
+  time: 0
+  time2: 0
+  imageActive: 1
+  Player: {fileID: 0}
+  TeachImage: {fileID: 0}
+  ExitTeach: {fileID: 0}
+  StartTeach: {fileID: 0}
+  teaching: {fileID: 0}
+  NotTeach: {fileID: 0}
+  stagenum: 1
+  PickupFirstTime: 0
+  PickupTwiceTime: 0
+  PutFirstTime: 0
+  Item: 1
+  LODTeach: 0
+  guid: {fileID: 0}
+--- !u!320 &320776359426794338
+PlayableDirector:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1590415876100588}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_PlayableAsset: {fileID: 11400000, guid: fc468d949b453d047bdbee360b0404d4, type: 2}
+  m_InitialState: 0
+  m_WrapMode: 0
+  m_DirectorUpdateMode: 1
+  m_InitialTime: 0
+  m_SceneBindings:
+  - key: {fileID: 114126734365356448, guid: fc468d949b453d047bdbee360b0404d4, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 0}
+    value: {fileID: 0}
+  - key: {fileID: 114321342939323206, guid: fc468d949b453d047bdbee360b0404d4, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 114650375919099008, guid: fc468d949b453d047bdbee360b0404d4, type: 2}
+    value: {fileID: 0}
+  m_ExposedReferences:
+    m_References:
+    - bb596a3a4ef6e464f98aaf171c4b03f6: {fileID: 0}
+    - be58f5c6cd273bb43922f88ef4ed79cf: {fileID: 0}
+    - c94219189ec6d5548ba4717de2e98996: {fileID: 0}
+    - 7c90943aa1f97b441b3b8de777ff7282: {fileID: 0}
+    - 9514418854ce0a446b18b457bca5e30d: {fileID: 0}

@@ -1,0 +1,8 @@
+idle待機
+walk走路
+run跑
+pick up裝進罐子(檔案內無包含罐子)
+pump up打氣
+put放罐子(檔案內無包含罐子)
+shoot射擊
+

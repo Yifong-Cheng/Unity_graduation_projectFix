@@ -1,0 +1,17 @@
+{"monsterDataList":[
+{"X":21.38,"Y":0.3,"Z":-163.18,"Type":'CB',"currentHp":30},
+{"X":112.7,"Y":0.26,"Z":-146.2,"Type":'CB',"currentHp":30},
+{"X":-52.75,"Y":0.3,"Z":-312.26,"Type":'CB',"currentHp":150},
+{"X":81.8,"Y":0.3,"Z":-232.17,"Type":'CB',"currentHp":30},
+{"X":75.8,"Y":0.3,"Z":-228.17,"Type":'CB',"currentHp":30},
+{"X":81.2,"Y":0.3,"Z":-238.17,"Type":'CB',"currentHp":30},
+{"X":73.8,"Y":0.3,"Z":-240.17,"Type":'CB',"currentHp":30},
+{"X":70.8,"Y":0.3,"Z":-233.17,"Type":'CB',"currentHp":30},
+{"X":80.8,"Y":0.3,"Z":-229.17,"Type":'CB',"currentHp":30},
+{"X":65.18,"Y":0.267,"Z":7.079,"Type":'CB',"currentHp":30},
+{"X":28.92,"Y":0.267,"Z":-243.7,"Type":'CB',"currentHp":30},
+{"X":-85.20,"Y":0.26,"Z":-317.23,"Type":'CB',"currentHp":30},
+{"X":-52.78,"Y":0.267,"Z":-206.67,"Type":'CB',"currentHp":30},
+{"X":-50.75,"Y":0.3,"Z":-303.26,"Type":'CB',"currentHp":25},
+{"X":-50.75,"Y":0.3,"Z":-319.26,"Type":'CB',"currentHp":25}
+]}
