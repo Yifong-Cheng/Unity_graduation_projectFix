@@ -1,5 +1,4 @@
 # Unity_graduation_projectFix
-![alt text](https://www.facebook.com/336723883631579/photos/338903386746962)
 
 Delete sth just for show 
 <br>
