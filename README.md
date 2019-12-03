@@ -15,5 +15,5 @@ https://www.facebook.com/336723883631579/videos/582568108924247/
 <br>
 <a href="https://www.youtube.com/watch?v=CnjscKp6PVo&feature=youtu.be" title="Tutorial Video">Tutorial Video</a>
 <br>
-[![Watch the video](https://i9.ytimg.com/vi/CnjscKp6PVo/mq2.jpg?sqp=CJW6me8F&rs=AOn4CLAfHgnvNul1y1HPMdfvf4h7WgEuwQ)](https://www.youtube.com/watch?v=CnjscKp6PVo&feature=youtu.be)
+
 
